@@ -179,10 +179,15 @@
     <Compile Include="Migrations\202405250927143_initialDB.Designer.cs">
       <DependentUpon>202405250927143_initialDB.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405261652089_AddStudent.cs" />
+    <Compile Include="Migrations\202405261652089_AddStudent.Designer.cs">
+      <DependentUpon>202405261652089_AddStudent.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -292,6 +297,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202405250927143_initialDB.resx">
       <DependentUpon>202405250927143_initialDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405261652089_AddStudent.resx">
+      <DependentUpon>202405261652089_AddStudent.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

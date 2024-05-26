@@ -22,6 +22,8 @@ namespace studentManagementSystems.Controllers
         {
         }
 
+
+
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
             UserManager = userManager;
@@ -155,6 +157,21 @@ namespace studentManagementSystems.Controllers
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
+                    var student = new Student
+                    {
+                        StudentID = user.Id, // use UserId same StudentID
+                        Name = model.Name,
+                        DateOfBirth = model.DateOfBirth,
+                        StudentEmail = model.Email,
+                        PhoneNumber = model.PhoneNumber,
+                        Address = model.Address
+                    };
+
+                    using (var db = new ApplicationDbContext())
+                    {
+                        db.Students.Add(student);
+                        await db.SaveChangesAsync();
+                    }
                     await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
                     
                     // For more information on how to enable account confirmation and password reset please visit https://go.microsoft.com/fwlink/?LinkID=320771

@@ -108,3 +108,4 @@ D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagemen
 D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.pdb
 D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.Migrations.initialDB.resources
 D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.csproj.GenerateResource.cache
+D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.Migrations.AddStudent.resources
