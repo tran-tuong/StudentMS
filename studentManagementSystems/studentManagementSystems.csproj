@@ -175,13 +175,13 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202405250927143_initialDB.cs" />
-    <Compile Include="Migrations\202405250927143_initialDB.Designer.cs">
-      <DependentUpon>202405250927143_initialDB.cs</DependentUpon>
+    <Compile Include="Migrations\202405262032591_InitailDB.cs" />
+    <Compile Include="Migrations\202405262032591_InitailDB.Designer.cs">
+      <DependentUpon>202405262032591_InitailDB.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202405261652089_AddStudent.cs" />
-    <Compile Include="Migrations\202405261652089_AddStudent.Designer.cs">
-      <DependentUpon>202405261652089_AddStudent.cs</DependentUpon>
+    <Compile Include="Migrations\202405270343001_Mođify.cs" />
+    <Compile Include="Migrations\202405270343001_Mođify.Designer.cs">
+      <DependentUpon>202405270343001_Mođify.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -263,6 +263,10 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Admin\Details.cshtml" />
+    <Content Include="Views\Admin\Edit.cshtml" />
+    <Content Include="Views\Admin\Delete.cshtml" />
+    <Content Include="Views\Admin\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -295,11 +299,11 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202405250927143_initialDB.resx">
-      <DependentUpon>202405250927143_initialDB.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202405262032591_InitailDB.resx">
+      <DependentUpon>202405262032591_InitailDB.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202405261652089_AddStudent.resx">
-      <DependentUpon>202405261652089_AddStudent.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202405270343001_Mođify.resx">
+      <DependentUpon>202405270343001_Mođify.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

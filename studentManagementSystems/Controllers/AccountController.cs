@@ -153,18 +153,19 @@ namespace studentManagementSystems.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
+                var user = new ApplicationUser { UserName = model.Name, Email = model.Email };
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
                     var student = new Student
                     {
-                        StudentID = user.Id, // use UserId same StudentID
+                        StudentID = model.StudentID, 
                         Name = model.Name,
                         DateOfBirth = model.DateOfBirth,
                         StudentEmail = model.Email,
                         PhoneNumber = model.PhoneNumber,
-                        Address = model.Address
+                        Address = model.Address,
+                        UserID = user.Id
                     };
 
                     using (var db = new ApplicationDbContext())

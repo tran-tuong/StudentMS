@@ -20,6 +20,7 @@ namespace studentManagementSystems.Models
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
+        public DbSet<Student> Students { get; set; }
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
@@ -29,6 +30,5 @@ namespace studentManagementSystems.Models
         {
             return new ApplicationDbContext();
         }
-        public DbSet<Student> Students { get; set; }
     }
 }

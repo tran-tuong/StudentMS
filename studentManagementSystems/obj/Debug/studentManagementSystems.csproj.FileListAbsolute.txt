@@ -106,6 +106,6 @@ D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagemen
 D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentM.6AC0763D.Up2Date
 D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.dll
 D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.pdb
-D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.Migrations.initialDB.resources
+D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.Migrations.InitailDB.resources
 D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.csproj.GenerateResource.cache
-D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.Migrations.AddStudent.resources
+D:\kiThuatLapTrinh\StudentMS\studentManagementSystems\obj\Debug\studentManagementSystems.Migrations.Mođify.resources

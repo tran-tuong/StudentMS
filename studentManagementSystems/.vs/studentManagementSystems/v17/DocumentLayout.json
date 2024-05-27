@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\migrations\\202405261652089_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:migrations\\202405261652089_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\migrations\\202405270343001_mo\u0111ify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:migrations\\202405270343001_mo\u0111ify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|d:\\kithuatlaptrinh\\studentms\\studentmanagementsystems\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{343447D6-4971-416C-9DA3-1FA52C9C6827}|studentManagementSystems.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +54,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "202405261652089_AddStudent.cs",
-              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Migrations\\202405261652089_AddStudent.cs",
-              "RelativeDocumentMoniker": "Migrations\\202405261652089_AddStudent.cs",
-              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Migrations\\202405261652089_AddStudent.cs",
-              "RelativeToolTip": "Migrations\\202405261652089_AddStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "202405270343001_Mo\u0111ify.cs",
+              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Migrations\\202405270343001_Mo\u0111ify.cs",
+              "RelativeDocumentMoniker": "Migrations\\202405270343001_Mo\u0111ify.cs",
+              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Migrations\\202405270343001_Mo\u0111ify.cs",
+              "RelativeToolTip": "Migrations\\202405270343001_Mo\u0111ify.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:52:13.879Z",
+              "WhenOpened": "2024-05-27T03:43:05.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T03:34:10.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IdentityModels.cs",
-              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Models\\IdentityModels.cs",
-              "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
-              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Models\\IdentityModels.cs",
-              "RelativeToolTip": "Models\\IdentityModels.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAA0AAAA",
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T03:34:08.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T03:34:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T21:05:11.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\AccountViewModels.cs",
+              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "Models\\AccountViewModels.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:23:15.329Z",
+              "WhenOpened": "2024-05-26T20:45:27.797Z",
               "EditorCaption": ""
             },
             {
@@ -78,35 +138,9 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAJcAAAAAAAAAAAAgwKUAAAA4AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T15:55:49.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBkAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T15:54:40.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountViewModels.cs",
-              "DocumentMoniker": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Models\\AccountViewModels.cs",
-              "RelativeDocumentMoniker": "Models\\AccountViewModels.cs",
-              "ToolTip": "D:\\kiThuatLapTrinh\\StudentMS\\studentManagementSystems\\Models\\AccountViewModels.cs",
-              "RelativeToolTip": "Models\\AccountViewModels.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAADwv14AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T15:35:51.263Z",
+              "WhenOpened": "2024-05-26T20:43:53.45Z",
               "EditorCaption": ""
             }
           ]

@@ -3,7 +3,7 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class initialDB : DbMigration
+    public partial class InitailDB : DbMigration
     {
         public override void Up()
         {
@@ -29,6 +29,20 @@
                 .ForeignKey("dbo.AspNetUsers", t => t.UserId, cascadeDelete: true)
                 .Index(t => t.UserId)
                 .Index(t => t.RoleId);
+            
+            CreateTable(
+                "dbo.Students",
+                c => new
+                    {
+                        StudentID = c.String(nullable: false, maxLength: 128),
+                        Name = c.String(nullable: false),
+                        DateOfBirth = c.DateTime(nullable: false),
+                        StudentEmail = c.String(nullable: false),
+                        PhoneNumber = c.String(nullable: false),
+                        Address = c.String(nullable: false),
+                        UserID = c.String(),
+                    })
+                .PrimaryKey(t => t.StudentID);
             
             CreateTable(
                 "dbo.AspNetUsers",
@@ -92,6 +106,7 @@
             DropTable("dbo.AspNetUserLogins");
             DropTable("dbo.AspNetUserClaims");
             DropTable("dbo.AspNetUsers");
+            DropTable("dbo.Students");
             DropTable("dbo.AspNetUserRoles");
             DropTable("dbo.AspNetRoles");
         }

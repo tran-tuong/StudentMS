@@ -33,5 +33,7 @@ namespace studentManagementSystems.Models
         [Required]
         [Display(Name = "Address")]
         public string Address { get; set; }
+
+        public string UserID { get; set; }
     }
 }

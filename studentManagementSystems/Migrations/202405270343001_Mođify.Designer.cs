@@ -7,13 +7,13 @@ namespace studentManagementSystems.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class initialDB : IMigrationMetadata
+    public sealed partial class Mođify : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(initialDB));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(Mođify));
         
         string IMigrationMetadata.Id
         {
-            get { return "202405250927143_initialDB"; }
+            get { return "202405270343001_Mođify"; }
         }
         
         string IMigrationMetadata.Source
